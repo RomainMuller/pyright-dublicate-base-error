@@ -1,0 +1,7 @@
+[tool.pyright]
+defineConstant = { DEBUG = true }
+pythonVersion = "3.7"
+pythonPlatform = "All"
+reportSelfClsParameterName = false
+venvPath = "../python-venvs"
+venv = "venv"
